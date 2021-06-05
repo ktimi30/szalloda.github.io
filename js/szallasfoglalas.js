@@ -31,10 +31,11 @@ function foglalas() {
     }
     $("foglalas").innerHTML = "Kedves " + $("nev").value + "! A szobafoglalás sikeresen megtörtént!";
 }
-function ures(ertek){
-if(ertek.value.length == 0){
-window.alert("A mezők kitöltése kötelező!");
-    $("form").reset();
-    $("btn").removeEventListener();
-}
+
+function ures(ertek) {
+    if (ertek.value.length == 0) {
+        window.alert("A mezők kitöltése kötelező!");
+        $("form").reset();
+        $("btn").removeEventListener();
+    }
 }
