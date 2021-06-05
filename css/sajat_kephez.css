@@ -17,3 +17,12 @@ body {
 .nav-link {
     color: goldenrod;
 }
+#lablec{
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    font-family: cursive;
+
+}
