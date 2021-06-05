@@ -1,1 +1,0 @@
-# szalloda.github.io
