@@ -9,7 +9,6 @@ function init() {
 }
 
 function foglalas() {
-    window.alert("Hulye");
     console.log("haho");
     ures($("nev"));
     ures($("email"));
