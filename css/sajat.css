@@ -5,7 +5,15 @@ body {
     padding-right: 5%;
     padding-bottom: 5%;
 }
-
+#lablec{
+text-align: center;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    font-family: cursive;
+ 
+}
 /*Navbar*/
 #navbar {
     text-align: center;
@@ -172,14 +180,6 @@ width: 25%;
 }
 
 /*Képgaléria másik CSS-ben*/
-#lablec{
-text-align: center;
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
-    left: 0px;
-    font-family: cursive;
- 
-}
+
 
 
